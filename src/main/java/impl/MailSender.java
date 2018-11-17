@@ -4,6 +4,6 @@ import inf.Sender;
 
 public class MailSender implements Sender {
     public void Send() {
-        System.out.println("this is mail sender!");
+        System.out.println("This is mail sender!");
     }
 }
